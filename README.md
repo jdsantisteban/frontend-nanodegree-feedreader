@@ -5,9 +5,9 @@
 This is a project to test a RSS Feed Reader application using **Jasmine** a JavaScript testing
 framework.
 
-#### Running the app locally
+#### Running the app
 
-Open up the _index.html_ file in your preferred web browser.
+Clone this repository to your project folder and open up the _index.html_ file in your preferred web browser.
 
 #### About the test
 
